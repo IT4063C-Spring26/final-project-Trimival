@@ -8,7 +8,6 @@
 # ## Topic
 # *What problem are you (or your stakeholder) trying to address?*
 # 📝 <!-- Answer Below -->
-# test
 
 # ## Project Question
 # *What specific question are you seeking to answer with this project?*
@@ -39,9 +38,9 @@
 # *What resources and references have you used for this project?*
 # 📝 <!-- Answer Below -->
 
-# In[2]:
+# In[ ]:
 
 
 # ⚠️ Make sure you run this cell at the end of your notebook before every submission!
-get_ipython().system('jupyter nbconvert --to python source.ipynb')
+get_ipython().system('jupyter nbconvert --to python python-exercises.ipynb')
 
